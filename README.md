@@ -21,7 +21,7 @@ Add LeapChucker to your project using Xcode:
 
 1. Open your project in Xcode
 2. Go to `File` → `Add Package Dependencies...`
-3. Enter the repository URL: `https://github.com/yourusername/LeapChucker`
+3. Enter the repository URL: `https://github.com/Anush01/LeapChucker.git`
 4. Click `Add Package`
 
 Or add it to your `Package.swift`:
